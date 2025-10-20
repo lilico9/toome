@@ -1,6 +1,6 @@
 /**
  * 树叶、花瓣等物体飘落动画
- * @author Tooru(x)
+ * @author Toome(x)
  * @description My website: https://tooru.ink
  */
 class FallItem {
